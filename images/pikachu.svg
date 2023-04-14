@@ -1,0 +1,76 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="128" height="128" rx="16" transform="matrix(-1 0 0 1 128 0)" fill="white"/>
+<rect x="31" y="36" width="45" height="65" fill="#FFFF00"/>
+<rect x="21" y="41" width="10" height="25" fill="#FFFF00"/>
+<rect x="26" y="76" width="5" height="5" fill="#FFFF00"/>
+<rect x="61" y="106" width="10" height="5" fill="#FFFF00"/>
+<rect x="36" y="16" width="10" height="20" fill="#FFFF00"/>
+<rect x="86" y="26" width="5" height="5" fill="#FFFF00"/>
+<rect x="96" y="16" width="5" height="5" fill="#FFFF00"/>
+<rect x="36" y="86" width="5" height="5" fill="#FF8500"/>
+<rect x="71" y="61" width="5" height="5" fill="#FF8500"/>
+<rect x="66" y="46" width="5" height="5" fill="#FF8500"/>
+<rect x="41" y="31" width="5" height="5" fill="#FF8500"/>
+<rect x="81" y="26" width="15" height="35" fill="#FF8500"/>
+<rect x="91" y="21" width="15" height="15" fill="#FF8500"/>
+<rect x="31" y="91" width="30" height="5" fill="#FF8500"/>
+<rect x="36" y="76" width="25" height="5" fill="#FF8500"/>
+<rect x="56" y="71" width="15" height="5" fill="#FF8500"/>
+<rect x="66" y="66" width="15" height="45" fill="#FF8500"/>
+<rect x="31" y="66" width="5" height="15" fill="#FF8500"/>
+<rect x="91" y="21" width="5" height="5" fill="#FFFF00"/>
+<rect x="41" y="16" width="5" height="5" fill="#795547"/>
+<rect x="76" y="81" width="5" height="5" fill="#795547"/>
+<rect x="71" y="36" width="5" height="5" fill="#795547"/>
+<rect x="71" y="71" width="10" height="5" fill="#795547"/>
+<rect x="71" y="31" width="10" height="5" fill="#795547"/>
+<path d="M51 71H56V76H51V71Z" fill="#F34236"/>
+<path d="M51 66H61V71H51V66Z" fill="#F34236"/>
+<rect x="51" y="101" width="15" height="5" fill="black"/>
+<rect x="61" y="111" width="15" height="5" fill="black"/>
+<rect x="76" y="111" width="15" height="5" transform="rotate(-90 76 111)" fill="black"/>
+<rect x="76" y="66" width="10" height="5" transform="rotate(-90 76 66)" fill="black"/>
+<rect x="76" y="46" width="10" height="5" transform="rotate(-90 76 46)" fill="black"/>
+<rect x="96" y="56" width="10" height="5" transform="rotate(-90 96 56)" fill="black"/>
+<rect x="106" y="31" width="10" height="5" transform="rotate(-90 106 31)" fill="black"/>
+<rect x="71" y="56" width="15" height="5" transform="rotate(-90 71 56)" fill="black"/>
+<rect x="81" y="96" width="50" height="5" transform="rotate(-90 81 96)" fill="black"/>
+<rect x="16" y="46" width="5" height="15" fill="black"/>
+<rect x="31" y="26" width="5" height="10" fill="black"/>
+<rect x="36" y="16" width="5" height="10" fill="black"/>
+<rect x="46" y="16" width="5" height="20" fill="black"/>
+<rect x="21" y="51" width="5" height="5" fill="black"/>
+<rect x="81" y="31" width="5" height="5" fill="black"/>
+<rect x="86" y="61" width="5" height="5" fill="black"/>
+<rect x="91" y="56" width="5" height="5" fill="black"/>
+<rect x="91" y="41" width="5" height="5" fill="black"/>
+<rect x="96" y="36" width="5" height="5" fill="black"/>
+<rect x="101" y="31" width="5" height="5" fill="black"/>
+<rect x="101" y="16" width="5" height="5" fill="black"/>
+<rect x="96" y="11" width="5" height="5" fill="black"/>
+<rect x="91" y="16" width="5" height="5" fill="black"/>
+<rect x="86" y="21" width="5" height="5" fill="black"/>
+<rect x="21" y="41" width="5" height="5" fill="black"/>
+<rect x="26" y="36" width="5" height="5" fill="black"/>
+<rect x="21" y="61" width="5" height="5" fill="black"/>
+<rect x="46" y="56" width="5" height="5" fill="black"/>
+<rect x="41" y="56" width="5" height="5" fill="white"/>
+<rect x="21" y="76" width="5" height="5" fill="black"/>
+<rect x="36" y="91" width="5" height="5" fill="black"/>
+<rect x="61" y="91" width="5" height="5" fill="black"/>
+<path d="M41 61H51V66H41V61Z" fill="black"/>
+<path d="M61 31H71V36H61V31Z" fill="black"/>
+<path d="M71 26H86V31H71V26Z" fill="black"/>
+<path d="M51 36H61V41H51V36Z" fill="black"/>
+<path d="M41 11H51V16H41V11Z" fill="black"/>
+<rect x="56" y="86" width="5" height="5" fill="black"/>
+<rect x="56" y="106" width="5" height="5" fill="black"/>
+<rect x="71" y="101" width="5" height="5" fill="black"/>
+<rect x="61" y="81" width="5" height="5" fill="black"/>
+<rect x="26" y="91" width="5" height="5" fill="black"/>
+<rect x="26" y="81" width="5" height="5" fill="black"/>
+<rect x="26" y="66" width="5" height="10" fill="black"/>
+<rect x="31" y="81" width="5" height="10" fill="black"/>
+<rect x="26" y="101" width="5" height="25" transform="rotate(-90 26 101)" fill="black"/>
+<rect x="21" y="46" width="5" height="5" fill="white"/>
+</svg>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Nunito&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="../css/reset.css" />
+        <link rel="stylesheet" href="../css/game.css" />
+
+        <script defer src="../js/game.js"></script>
+
+        <title>Jogo da Memória</title>
+    </head>
+    <body>
+        <main>
+            <header>
+                <div class="description">
+                    <span class="game-title">Jogo da Memoria</span>
+                    <p class="player-and-description">
+                        <span class="player"></span> você tem 15 tentativas para
+                        encontrar todos os pokemons!
+                    </p>
+                </div>
+
+                <div class="attemps-box">
+                    <div class="attemps">
+                        <span>Tentativas</span>
+                        <span class="number-attemps">0/15</span>
+                    </div>
+                    <div class="attemp-progress-bar">
+                        <div class="bar"></div>
+                        <div class="progress"></div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="grid">
+                <!--
+              <div class="card">
+                  <div class="face front"></div>
+                  <div class="face back"></div>
+              </div>
+              -->
+            </div>
+        </main>
+
+        <section class="sheet-finish-game">
+            <div class="box-sheet-finish-game">
+                <img src="../images/bg-end-game.svg" alt="" />
+                <div class="content-statistics">
+                    <h4></h4>
+
+                    <p class="game-time"></p>
+
+                    <button>Play</button>
+                </div>
+            </div>
+        </section>
+        
+    </body>
+</html>

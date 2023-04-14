@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/login.css" />
+
+    <title>Jogo da Memória | Login</title>
+  </head>
+  <body>
+    <form class="login__form">
+      <div class="login__header">
+        <img src="./images/card-pokeball.svg" alt="Card with pokeball" />
+        <h1>Jogo da Memória</h1>
+      </div>
+
+      <!--  <input type="text" placeholder="Nome" class="login__input" /> -->
+      <div class="form-control">
+        <input type="text" required="true" class="login__input"/>
+        <label>
+          <span style="transition-delay: 0ms">J</span>
+          <span style="transition-delay: 50ms">o</span>
+          <span style="transition-delay: 100ms">g</span>
+          <span style="transition-delay: 150ms">a</span>
+          <span style="transition-delay: 200ms">d</span>
+          <span style="transition-delay: 250ms">o</span>
+          <span style="transition-delay: 300ms">r</span>
+        </label>
+      </div>
+
+      <button class="login__button" disabled>Play</button>
+    </form>
+
+    <script src="./js/login.js"></script>
+
+  </body>
+</html>
