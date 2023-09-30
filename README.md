@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Memory Game como o proprio nome diz, se trata de um jogo da memoria cujo o objetivo é o usuario encontrar os pares de cartas contendo os mesmos Pokemons. O jogo monitora os erros do usuario e caso o player não encontre todas as combinações em até 15 jogadas o jogo é finalizado e o usuario recebe uma notificação de Game Over. Mas se ele conseguir vencer o jogo dentro das 15 jogas o jogo acaba e o usuario receberá uma alerta de fim de jogo com o tempo utiliza para encontrar todos os pares de cartas.<br/>
 
-- [Visite o projeto online](https://vhpaula.github.io/memory_game)
+- [Visite o projeto online](https://vhpaula.github.io/MemoryGame)
 
 ## 🔖 Layout
 
